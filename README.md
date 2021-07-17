@@ -7,7 +7,9 @@
 <p align="center">
   The second iteration of <a href="https://ankushsinghgandhi.gihub.io/" target="_blank">ankushsinghgandhi.github.io</a> built on top of Personal Template from <a href="https://bootstrapmade.com/demo/Personal/" target="_blank">Bootstrapmade.com </a> and hosted on <a href="https://pages.github.com/" target="_blank">Github Pages</a>
 </p>
-
+<p>
+  This is the old iteration of my portfolio website and it was not update from long time new portfolio website will be up soon at ankushgandhi.com
+ </p>
 ### TL;DR
 
 Yes, you can fork this repo. Please give proper credit To Me (<a href="https://github.com/ankushsinghgandhi">@ankushsinghgandhi</a>) for changes, modification and fixes in orignal template and to <a href="https://bootstrapmade.com/demo/Personal/" target="_blank">Bootstrapmade.com </a> for "personal" template . Thanks!
